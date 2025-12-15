@@ -54,13 +54,3 @@
 ---
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=or455510&color=blue&style=flat)
-
----
-
-### 💡 إضافات تقدر تخلي البورتفوليو أقوى:
-- ✨ **Screenshots / GIFs** من المشاريع (زي الأمثلة فوق).  
-- 🌍 **Live Demo Links** (استعمل Netlify / Vercel / Render).  
-- 📚 **Blog / Articles** لو بتكتب مقالات تقنية.  
-- 🛠️ **Workflow Section** (Agile, GitFlow).  
-- 🎖️ **Achievements / Certificates** بصور أو لينكات.  
-- 🤝 **Open Source Contributions** واعرض روابطها.  
