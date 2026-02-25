@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7F7&center=true&vCenter=true&width=435&lines=Junior+Full+Stack+Developer;React+%7C+PHP+%7C+Laravel;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 💻 Junior Full Stack Developer ( PHP / Laravel)  
-📍 Based in Egypt | 🎓 IS Student @ El Wadi High Institute  
+📍 Based in Egypt | 🎓 MIS Student @ El Wadi High Institute  
 🌱 Currently learning:  GitLab CI/CD  
 ---
 
