@@ -1,29 +1,106 @@
-# Hi there, I'm Omar Ramadan 👋
+# 👋 Hi, I'm Omar Ramadan  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7F7&center=true&vCenter=true&width=435&lines=Junior+Full+Stack+Developer;React+%7C+PHP+%7C+Laravel;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
+<h3 align="center">🚀 Full Stack Developer | Laravel & React Specialist</h3>
 
-💻  Full Stack Developer ( PHP / Laravel)  
-📍 Based in Egypt | 🎓 MIS Student @ El Wadi High Institute  
-🌱 Currently learning:  GitLab CI/CD  
----
-
-## 🔧 Technologies & Tools
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php)
-![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-
+<p align="center">
+I build <b>fast, scalable, and user-focused web applications</b> — especially E-commerce systems that actually work in real-world scenarios.
+</p>
 
 ---
 
+## ⚡ Why Me?
 
-## 📫 Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/omar-ramadan-4556b930a)  
-[![Gmail](https://img.shields.io/badge/Gmail-OmarRamadan%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:or455510@gmail.com)
+Most developers write code.  
+I build systems that:
+
+✔ Solve real problems  
+✔ Improve user experience  
+✔ Are scalable and easy to maintain  
+
+💡 My focus is not just development — it's delivering **working solutions that make sense for business**
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=or455510&color=blue&style=flat)
+## 🔥 What I Do Best
+
+- 🛒 Build full E-commerce systems (Laravel + React)  
+- ⚙️ Develop clean and scalable backend architectures  
+- 🔗 Create secure RESTful APIs  
+- 🎯 Optimize UI/UX for better user interaction  
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,php,laravel,mysql,git,github" />
+
+</p>
+
+---
+
+## 🚀 Featured Projects (Don’t Skip 👇)
+
+### 🛒 Laravel E-commerce System
+> A complete e-commerce platform built with Laravel  
+✔ Product management  
+✔ Role-based access  
+✔ Scalable architecture  
+
+👉 🔗 **[View Code](#)**  
+👉 🌐 **[Live Demo](#)**  
+
+---
+
+### 💬 Social Media Comment System
+> Real-time commenting system with dynamic updates  
+
+✔ No page reload  
+✔ Smooth user experience  
+✔ AJAX-powered  
+
+👉 🔗 **[View Code](#)**  
+
+---
+
+### 🛍️ React E-commerce UI
+> Modern, responsive store interface designed for usability  
+
+✔ Clean UI  
+✔ Mobile-friendly  
+✔ Optimized navigation  
+
+👉 🔗 **[View Code](#)**  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=or455510&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/omar-ramadan-4556b930a">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:or455510@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
+</a>
+
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=or455510&color=blue&style=for-the-badge" />
+</p>
